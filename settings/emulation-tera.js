@@ -147,6 +147,7 @@ module.exports = {
 		"35": true, // Unleash: Sinister
 		"36": true, // Unleash: Rampage
 		"37": true, // Unleash: Beast Fury
+		"40": false, // CF
 	},
 	"4": { // Sorcerer
 		"enabled": true,
