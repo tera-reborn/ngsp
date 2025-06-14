@@ -24,7 +24,7 @@
         "data/internal/ui/ubuntu-regular.css": "73fa77a8a921fbc54cdc8c6fd13afd59a10d385767830807d9d62ae048cf5dcb",
         "data/internal/ui/ubuntu-v14-regular-full.woff2": "450a235e4617e79014b8124e7c0ac2ba9110bcc11ee512e5bcac5bdc0255bf92",
         "index.js": "c0312fc6da3bb53fc4760d85c6c5c4cf612ad9b9b8c97fc5b6855767863d7990",
-        "lib/core.js": "3c796b155eb2ffc6cee0dfbc28fa733d60d13a5fa024b6a5158c7e7cb39cf8df",
+        "lib/core.js": "2bf66c9a5683479a29aa3bd3bc0c587aff61b23280136505801ad00d0ceff3b2",
         "lib/io/logger.js": "9d56f5a5d4b8695569b8873bcb6e370493c480939cbf3d5d4e6e139ba5612d93",
         "lib/io/NextGenPingTool.exe": "54312374a8962d729702ae5d239b6ff6f8cf9537f11f63a47c1c28b88b0513e4",
         "lib/state.js": "3cef19797c6d73390bf96dcd8436df8702715fe8233e21119e0f3b8bbded797a",
